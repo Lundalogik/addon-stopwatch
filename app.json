@@ -1,0 +1,21 @@
+{
+  "name": "StopWatch",
+  "author": "LJE",
+  "status": "Beta",
+  "shortDesc": "A simple tool for debugging performance in VBA which prints time in infolog or intermediate window for each StopWatch you create. ",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2017-05-04",
+      "comments": "First, basic release"
+    }
+  ],
+  "install": {
+    "vba": [
+      {
+        "name": "StopWatch",
+        "relPath": "Install\\StopWatch.bas"
+      }
+    ]
+  }
+}
